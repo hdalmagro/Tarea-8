@@ -44,6 +44,8 @@ Capitulo 16
 
 4. VIDEO
 
+https://youtu.be/hy2OzkPyDA4
+
 5. CONCLUSIONES
 
 • Se analizó la diferencia entre conectarse en serie o en paralelo y el comportamiento de los elementos al hacer cada uno de estos tipos de circuitos y alimentarlos con distintos voltajes.
@@ -51,3 +53,5 @@ Capitulo 16
 • Los capacitores actuan de forma diferente a los resistores y ya que existe un desface por parte de ellos comparados con los resistores y las corrientes.
 
 5. BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de Circuitos Eléctricos: Vol. Octava Edición. Pearson Education.
